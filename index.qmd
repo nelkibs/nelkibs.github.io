@@ -30,7 +30,7 @@ format:
 
 # Nelson Kibinge, PhD
 
-<p class="lead">I turn patient and pre clinical data into actionable insight for oncology drug discovery from indication selection and biomarker discovery to AI-enabled target prioritization.</p>
+<p class="lead">I turn patient and pre clinical data into actionable insight for oncology drug discovery from indication selection and biomarker discovery to AI-leveragingtarget prioritization.</p>
 
 <p class="social-links"><a href="https://www.linkedin.com/in/nelson-kibinge-1b1477223/">LinkedIn</a><a href="https://scholar.google.com/citations?user=0aNS07IAAAAJ&amp;hl=en&amp;oi=ao">Google Scholar</a><a href="https://github.com/nelkibs">GitHub</a><a href="mailto:nelkibs@gmail.com">Email</a></p>
 :::
@@ -333,7 +333,7 @@ Marketed generic anti-inflammatory and analgesic products in Nairobi and the Nor
 :::
 
 <details class="publication-archive">
-<summary>Expand to view other Google Scholar records</summary>
+<summary>See other publications</summary>
 
 - **Biomarkers of post-discharge mortality among children with complicated severe acute malnutrition.** J. M. Njunge, A. Gwela, **N. K. Kibinge**, et al. (2019). *Scientific Reports*, 9, 5981. [Scholar](https://scholar.google.com/citations?view_op=view_citation&user=0aNS07IAAAAJ&citation_for_view=0aNS07IAAAAJ:0EnyYjriUFMC)
 - **Data mining methods for omics and knowledge of crude medicinal plants toward big data biology.** F. M. Afendi, N. Ono, Y. Nakamura, K. Nakamura, L. K. Darusman, **N. Kibinge**, et al. (2014). [Scholar](https://scholar.google.com/citations?view_op=view_citation&user=0aNS07IAAAAJ&citation_for_view=0aNS07IAAAAJ:u-x6o8ySG0sC)
@@ -366,9 +366,9 @@ Marketed generic anti-inflammatory and analgesic products in Nairobi and the Nor
 
 </details>
 
-*Google Scholar showed 30 article records and an additional “Show more” control. This archive reflects records retrievable at the time; Scholar may include preprints, meeting records, and duplicate/version entries. Check the live profile for completeness.*
 
-## Digital tools & applications {#digital-tools}
+
+## Enabling tools & workflows developed {#digital-tools}
 
 Selected examples of Shiny-based bioinformatics applications developed for interactive exploration of omics and screening data. The images below are illustrative mockups, not screenshots of the live applications; they contain no real study data.
 
