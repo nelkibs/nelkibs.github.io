@@ -1,0 +1,117 @@
+---
+title: "Curriculum Vitae"
+subtitle: "Nelson Kibinge, PhD"
+date: last-modified
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    geometry:
+      - top=0.65in
+      - bottom=0.65in
+      - left=0.75in
+      - right=0.75in
+    colorlinks: true
+    urlcolor: teal
+    toc: false
+    pdf-engine: lualatex
+---
+
+Computational biologist and senior scientist in Translational Medicine at Orion Pharma, Finland. Supports oncology research across pre-clinical and clinical programmes, with recent focus on immuno-oncology bioinformatics, indication selection, and biomarker discovery using patient molecular data.
+
+**Contact:** [nelkibs@gmail.com](mailto:nelkibs@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nelson-kibinge-1b1477223/) · [Google Scholar](https://scholar.google.com/citations?user=0aNS07IAAAAJ&hl=en&oi=ao) · [GitHub](https://github.com/nelkibs)
+
+## Current focus and strengths
+
+- Clinical-project support, including indication selection and translational decision-making through integration of disease biology with clinical and molecular evidence.
+- Biomarker discovery and evaluation using patient DNA sequencing, circulating tumour DNA (ctDNA), and RNA sequencing data.
+- Immuno-oncology bioinformatics: tumour–immune biology, immune-cell populations, tumour-infiltrating immune cells, and molecular signatures.
+- Multi-omics integration across genomics, transcriptomics, proteomics, single-cell, and spatial data.
+- R and Python tool development, reusable analytical workflows, and Shiny applications for research and development.
+- AI-enabled approaches for oncology target discovery and prioritization, target-confidence assessment, and hypothesis generation.
+- Cross-functional collaboration across translational, clinical, computational, and experimental teams; clear communication of analytical findings.
+
+## Professional experience
+
+### Senior Scientist – Computational Biologist | Orion Pharma
+
+**February 2020–Present · Turku, Finland**
+
+Works in Translational Medicine, supporting oncology research and development. Develops and applies computational approaches to high-throughput omics data, contributes to target prioritization and biomarker discovery, develops data-science tools, and supports data-driven bioinformatics and AI collaborations.
+
+### Senior Research Associate – Statistical Genomics | MRC Integrative Epidemiology Unit, University of Bristol
+
+**April 2019–January 2020 · Bristol, United Kingdom**
+
+Applied genomics and epidemiology methods to identify therapeutic targets for autoimmune diseases, communicated scientific findings, and facilitated academic–pharma collaboration.
+
+### Visiting Research Scientist | Heidelberg University
+
+**January–March 2019 · Heidelberg, Germany**
+
+Developed statistical methods for analysis of KILchip Protein Microarray data.
+
+### Senior Postdoctoral Scientist – Acting Head of Statistics | KEMRI-Wellcome Trust Research Programme
+
+**March 2018–June 2019 · Kilifi, Kenya**
+
+Led the statistics unit, supported institutional statistical needs, and developed statistical methods for diverse omics datasets.
+
+### Early Career Postdoctoral Scientist | KEMRI-Wellcome Trust Research Programme
+
+**March 2016–November 2018 · Kilifi, Kenya**
+
+Conducted research on malaria and virus genomics and diversity in long-term surveillance; published research; and supervised master’s students and interns.
+
+### Adjunct Faculty | Pwani University
+
+**July 2016–Present · Kilifi, Kenya**
+
+Taught MSc Bioinformatics courses in biostatistics, data science for biology, databases, and data visualization; examines master’s and doctoral theses in bioinformatics.
+
+### Bioinformatics Intern | Yukiguni Maitake
+
+**March–September 2015 · Niigata, Japan**
+
+Developed transcriptomics and genomics software tools supporting research and development in Maitake mushroom cultivation.
+
+### Medical Sales Representative | Pharmaken Kenya Ltd.
+
+**2008–2009 · Kenya**
+
+Marketed generic anti-inflammatory and analgesic products in Nairobi and the North Eastern region.
+
+## Education
+
+### PhD, Computational Biology | Nara Institute of Science and Technology
+
+**2013–2015** · Thesis: *Integrated pathway-based transcription regulation network mining to decipher the role of transcription factors in the heterogeneity of small cell lung cancer phenotypes.*
+
+### MSc, Computational Biology | Nara Institute of Science and Technology
+
+**2011–2013** · Thesis: *Protein sequence diversity characterization using the physical attributes of amino acids: Examples in Plasmodium falciparum sequences and terpenoid enzymes.*
+
+### Intensive Japanese Language Course | Osaka University
+
+**2010–2011**
+
+### BSc, Biology | University of Nairobi
+
+**2004–2008**
+
+### Secondary Education | St Patrick’s High School, Iten
+
+**1999–2002**
+
+## Selected publications and conference abstracts
+
+- Narvi, E., Virtakoivu, R., Elbasani, E., **Kibinge, N.**, Ravanti, L., and Thotakura, A. K. (2025). “Abstract 914: Differential expression of Cbl-b in tumor infiltrating immune cells in patients with solid tumors.” *Cancer Research*, 85(8 Supplement 1), 914. AACR Annual Meeting. [Abstract](https://aacrjournals.org/cancerres/article/85/8_Supplement_1/914/754713/Abstract-914-Differential-expression-of-Cbl-b-in) · [DOI](https://doi.org/10.1158/1538-7445.am2025-914)
+- Kibinge, N., Dickens, A., Genge, A., Maragakis, N., Petri, S., Van den Berg, L., et al. (2021). “Correlation of laboratory safety variables with disease course in the REFALS phase 3 study of levosimendan in people with ALS (4125).” *Neurology*, 96(15 supplement), 4125. [Abstract](https://www.neurology.org/doi/abs/10.1212/WNL.96.15_supplement.4125)
+- Kibinge, N. K., Relton, C. L., Gaunt, T. R., and Richardson, T. G. (2020). “Characterizing the causal pathway for genetic variants associated with neurological phenotypes using human brain-derived proteome data.” *The American Journal of Human Genetics*, 106(6), 885–892. [Article](https://www.cell.com/ajhg/fulltext/S0002-9297%2820%2930116-6)
+- Kibinge, N., Ono, N., Horie, M., Sato, T., Sugiura, T., Altaf-Ul-Amin, M., et al. (2016). “Integrated pathway-based transcription regulation network mining and visualization based on gene expression profiles.” *Journal of Biomedical Informatics*, 61, 194–202. [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&user=0aNS07IAAAAJ&citation_for_view=0aNS07IAAAAJ:qjMakFHDy7sC)
+
+## Awards
+
+- **2025 — Orion Innovation Award:** Development of an in-house oncology single-cell explorer platform, deployed in production for target discovery and ideation.
+- **2010 — Monbukagakusho (MEXT) Scholarship:** Awarded to pursue master’s and doctoral studies in bioinformatics.
+- **2008 — Gandhi Smarak Nidhi Fund Prize:** Top graduate student, School of Biological Sciences, University of Nairobi, Class of 2008.
