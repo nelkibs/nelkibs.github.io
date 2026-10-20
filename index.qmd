@@ -26,7 +26,7 @@ format:
 
 ::: {.cv-hero}
 ::: {.cv-hero-copy}
-<p class="eyebrow">Translational Medicine · Immuno-oncology · Bioinformatics</p>
+<p class="eyebrow">Translational Medicine · Bioinformatics · Immuno-oncology</p>
 
 # Nelson Kibinge, PhD
 
