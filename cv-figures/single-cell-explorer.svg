@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">Illustrative single-cell explorer mockup</title>
+  <desc id="desc">A fictional dashboard with cell clusters in a two-dimensional embedding plot and simple controls.</desc>
+  <rect width="900" height="500" rx="18" fill="#f3f7f7"/>
+  <rect x="18" y="18" width="864" height="464" rx="12" fill="#ffffff" stroke="#dce4e8"/>
+  <rect x="18" y="18" width="864" height="54" rx="12" fill="#eaf1f2"/>
+  <circle cx="43" cy="45" r="7" fill="#087e8b"/><circle cx="66" cy="45" r="7" fill="#7eb3b5"/><circle cx="89" cy="45" r="7" fill="#c7d7d9"/>
+  <text x="120" y="51" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#202b36">Single-cell explorer</text>
+  <rect x="37" y="94" width="190" height="350" rx="8" fill="#f3f7f7"/>
+  <text x="56" y="126" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#202b36">Dataset controls</text>
+  <text x="56" y="164" font-family="Arial,sans-serif" font-size="13" fill="#647383">Study</text><rect x="56" y="174" width="150" height="34" rx="5" fill="#fff" stroke="#cbd7db"/>
+  <text x="68" y="196" font-family="Arial,sans-serif" font-size="13" fill="#647383">Example cohort</text>
+  <text x="56" y="239" font-family="Arial,sans-serif" font-size="13" fill="#647383">Colour by</text><rect x="56" y="249" width="150" height="34" rx="5" fill="#fff" stroke="#cbd7db"/>
+  <text x="68" y="271" font-family="Arial,sans-serif" font-size="13" fill="#647383">Cell type</text>
+  <text x="56" y="319" font-family="Arial,sans-serif" font-size="13" fill="#647383">Sample group</text><rect x="56" y="329" width="150" height="34" rx="5" fill="#fff" stroke="#cbd7db"/>
+  <text x="68" y="351" font-family="Arial,sans-serif" font-size="13" fill="#647383">All samples</text>
+  <text x="266" y="113" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#202b36">Cell embedding</text>
+  <rect x="260" y="126" width="590" height="300" rx="8" fill="#fbfcfc" stroke="#e1e8ea"/>
+  <g opacity=".9">
+    <g fill="#087e8b"><circle cx="375" cy="227" r="8"/><circle cx="397" cy="206" r="7"/><circle cx="415" cy="231" r="8"/><circle cx="389" cy="250" r="7"/><circle cx="430" cy="207" r="6"/><circle cx="446" cy="236" r="8"/><circle cx="414" cy="269" r="7"/><circle cx="460" cy="211" r="7"/><circle cx="368" cy="271" r="6"/><circle cx="439" cy="280" r="7"/></g>
+    <g fill="#6b79b8"><circle cx="571" cy="205" r="8"/><circle cx="595" cy="223" r="7"/><circle cx="616" cy="195" r="7"/><circle cx="634" cy="227" r="8"/><circle cx="588" cy="250" r="7"/><circle cx="620" cy="262" r="8"/><circle cx="652" cy="205" r="6"/><circle cx="566" cy="269" r="7"/><circle cx="647" cy="250" r="7"/></g>
+    <g fill="#d08a45"><circle cx="489" cy="327" r="8"/><circle cx="513" cy="307" r="7"/><circle cx="537" cy="337" r="8"/><circle cx="555" cy="316" r="6"/><circle cx="501" cy="353" r="7"/><circle cx="541" cy="367" r="7"/><circle cx="477" cy="362" r="6"/><circle cx="568" cy="350" r="7"/></g>
+    <g fill="#69a17c"><circle cx="737" cy="312" r="8"/><circle cx="760" cy="291" r="7"/><circle cx="782" cy="319" r="8"/><circle cx="805" cy="301" r="7"/><circle cx="750" cy="340" r="7"/><circle cx="788" cy="357" r="8"/><circle cx="817" cy="338" r="6"/></g>
+  </g>
+  <text x="272" y="462" font-family="Arial,sans-serif" font-size="12" fill="#647383">Illustrative mockup · synthetic layout only · no study data</text>
+</svg>

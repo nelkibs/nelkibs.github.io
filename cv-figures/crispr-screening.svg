@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">Illustrative CRISPR screening app mockup</title>
+  <desc id="desc">A fictional screening dashboard with quality summary values, ranked target bars, and a candidate table.</desc>
+  <rect width="900" height="500" rx="18" fill="#f3f7f7"/>
+  <rect x="18" y="18" width="864" height="464" rx="12" fill="#fff" stroke="#dce4e8"/>
+  <rect x="18" y="18" width="864" height="54" rx="12" fill="#eaf1f2"/>
+  <circle cx="43" cy="45" r="7" fill="#087e8b"/><circle cx="66" cy="45" r="7" fill="#7eb3b5"/><circle cx="89" cy="45" r="7" fill="#c7d7d9"/>
+  <text x="120" y="51" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#202b36">CRISPR screening target discovery</text>
+  <g font-family="Arial,sans-serif">
+    <rect x="42" y="94" width="190" height="78" rx="8" fill="#f3f7f7"/><text x="60" y="122" font-size="12" fill="#647383">SCREEN</text><text x="60" y="151" font-size="19" font-weight="700" fill="#202b36">Example screen</text>
+    <rect x="249" y="94" width="190" height="78" rx="8" fill="#f3f7f7"/><text x="267" y="122" font-size="12" fill="#647383">GUIDES QC</text><text x="267" y="151" font-size="19" font-weight="700" fill="#087e8b">Illustrative</text>
+    <rect x="456" y="94" width="190" height="78" rx="8" fill="#f3f7f7"/><text x="474" y="122" font-size="12" fill="#647383">CANDIDATES</text><text x="474" y="151" font-size="19" font-weight="700" fill="#202b36">Prioritized</text>
+    <rect x="663" y="94" width="195" height="78" rx="8" fill="#f3f7f7"/><text x="681" y="122" font-size="12" fill="#647383">COMPARISON</text><text x="681" y="151" font-size="19" font-weight="700" fill="#202b36">Conditions</text>
+    <text x="53" y="211" font-size="15" font-weight="700" fill="#202b36">Candidate target ranking</text>
+    <rect x="42" y="224" width="400" height="205" rx="7" fill="#fbfcfc" stroke="#e1e8ea"/>
+    <text x="60" y="263" font-size="13" fill="#485660">Target A</text><rect x="145" y="248" width="238" height="20" rx="4" fill="#087e8b"/>
+    <text x="60" y="301" font-size="13" fill="#485660">Target B</text><rect x="145" y="286" width="197" height="20" rx="4" fill="#358fa0"/>
+    <text x="60" y="339" font-size="13" fill="#485660">Target C</text><rect x="145" y="324" width="163" height="20" rx="4" fill="#66aab1"/>
+    <text x="60" y="377" font-size="13" fill="#485660">Target D</text><rect x="145" y="362" width="119" height="20" rx="4" fill="#95c3c2"/>
+    <text x="60" y="411" font-size="11" fill="#647383">Illustrative score — not a real result</text>
+    <text x="477" y="211" font-size="15" font-weight="700" fill="#202b36">Review table</text>
+    <rect x="460" y="224" width="398" height="205" rx="7" fill="#fbfcfc" stroke="#e1e8ea"/>
+    <rect x="460" y="224" width="398" height="36" rx="7" fill="#eaf1f2"/>
+    <text x="477" y="247" font-size="12" font-weight="700" fill="#485660">Target</text><text x="602" y="247" font-size="12" font-weight="700" fill="#485660">Effect</text><text x="700" y="247" font-size="12" font-weight="700" fill="#485660">Confidence</text>
+    <g font-size="13" fill="#485660"><text x="477" y="290">Target A</text><text x="602" y="290">Example</text><text x="700" y="290">Review</text><text x="477" y="331">Target B</text><text x="602" y="331">Example</text><text x="700" y="331">Review</text><text x="477" y="372">Target C</text><text x="602" y="372">Example</text><text x="700" y="372">Review</text></g>
+    <path d="M460 302H858M460 343H858M460 384H858" stroke="#e1e8ea"/>
+  </g>
+  <text x="42" y="462" font-family="Arial,sans-serif" font-size="12" fill="#647383">Illustrative mockup · synthetic layout only · no study data</text>
+</svg>
