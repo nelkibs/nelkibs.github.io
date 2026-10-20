@@ -36,7 +36,7 @@ format:
 :::
 
 ::: {.cv-hero-photo}
-![Nelson Kibinge](avatar.jpg)
+![Nelson Kibinge](avatar.png)
 :::
 :::
 
